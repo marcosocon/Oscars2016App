@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name oscarsAppApp
+ * @name clientApp
  * @description
- * # oscarsAppApp
+ * # clientApp
  *
  * Main module of the application.
  */
 angular
-  .module('oscarsAppApp', [
+  .module('oscarsApp', [
     'ngRoute'
   ])
   .config(function ($routeProvider) {
