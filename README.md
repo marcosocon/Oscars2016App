@@ -1,4 +1,12 @@
-# Oscars 2016 App
+# oscars-app
 
--A web app that allows you to see trailers, vote and give you a ranking for the films that are nominated to the 2016 Oscars.
-# Oscars2016App
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.15.1.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
